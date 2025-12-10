@@ -9,6 +9,7 @@
 *   Операционная система **Windows**.
 *   Права **Администратора** на компьютере.
 *   Установочный файл `ThingWorxFoundation-8.4.0.exe`.
+*   Ссылка на установку https://drive.google.com/file/d/1amUxDnQCkKXvMDQh9twvn4R61bZcdgtW/view?usp=sharing
 
 ---
 
